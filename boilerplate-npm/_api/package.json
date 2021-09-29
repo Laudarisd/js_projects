@@ -1,6 +1,6 @@
 {
     "name": "fcc-learn-npm-package-json",
-    "author": "Sudip",
+    "author": "sudip",
     "description": "A project that does something awesome",
     "keywords": [ "freecodecamp", "microservice", "guide" ],
     "license": "MIT",
