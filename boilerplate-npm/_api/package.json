@@ -2,7 +2,7 @@
     "name": "fcc-learn-npm-package-json",
     "author": "Sudip",
     "description": "A project that does something awesome",
-    "keywords": [ "freecodecamp", "related", "words" ],
+    "keywords": [ "freecodecamp", "microservice", "guide" ],
     "dependencies": {
       "express": "^4.14.0"
     },
