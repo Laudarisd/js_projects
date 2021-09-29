@@ -5,9 +5,6 @@
     "keywords": [ "freecodecamp", "microservice", "guide" ],
     "license": "MIT",
     "version": "1.2.0",
-    "dependencies": {
-      "package-name": "version"
-    },
     "main": "server.js",
     "scripts": {
       "start": "node server.js"
