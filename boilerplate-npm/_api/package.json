@@ -6,8 +6,7 @@
     "license": "MIT",
     "version": "1.2.0",
     "dependencies": {
-      "package-name": "version",
-      "moment": "^2.x.x"
+      "package-name": "version"
     },
     "main": "server.js",
     "scripts": {
